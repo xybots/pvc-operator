@@ -1,0 +1,6 @@
+apiVersion: "banzaicloud.com/v1alpha1"
+kind: "ObjectStore"
+metadata:
+  name: "test"
+spec:
+  name: "googlebucket"
